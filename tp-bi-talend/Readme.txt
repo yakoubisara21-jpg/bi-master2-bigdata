@@ -9,8 +9,6 @@ Technologies utilisées
 
 • SQL Server Management Studio 2022 (SSMS)
 • Talend Open Studio for Data Integration
-• LaTeX (rédaction des rapports)
-• GitHub (organisation du projet)
 
 -----------------------------------------
 Auteur
