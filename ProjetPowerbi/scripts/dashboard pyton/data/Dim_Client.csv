@@ -1,0 +1,121 @@
+﻿id_seqClient,id_client_prod,source_prod,CompanyName,City,Country
+1,ALFKI,SQL SERVER,Alfreds Futterkiste,Berlin,Germany
+2,ANATR,SQL SERVER,Ana Trujillo Emparedados y helados,México D.F.,Mexico
+3,ANTON,SQL SERVER,Antonio Moreno Taquería,México D.F.,Mexico
+4,AROUT,SQL SERVER,Around the Horn,London,UK
+5,BERGS,SQL SERVER,Berglunds snabbköp,Luleå,Sweden
+6,BLAUS,SQL SERVER,Blauer See Delikatessen,Mannheim,Germany
+7,BLONP,SQL SERVER,Blondesddsl père et fils,Strasbourg,France
+8,BOLID,SQL SERVER,Bólido Comidas preparadas,Madrid,Spain
+9,BONAP,SQL SERVER,Bon app',Marseille,France
+10,BOTTM,SQL SERVER,Bottom-Dollar Markets,Tsawassen,Canada
+11,BSBEV,SQL SERVER,B's Beverages,London,UK
+12,CACTU,SQL SERVER,Cactus Comidas para llevar,Buenos Aires,Argentina
+13,CENTC,SQL SERVER,Centro comercial Moctezuma,México D.F.,Mexico
+14,CHOPS,SQL SERVER,Chop-suey Chinese,Bern,Switzerland
+15,COMMI,SQL SERVER,Comércio Mineiro,Sao Paulo,Brazil
+16,CONSH,SQL SERVER,Consolidated Holdings,London,UK
+17,DRACD,SQL SERVER,Drachenblut Delikatessen,Aachen,Germany
+18,DUMON,SQL SERVER,Du monde entier,Nantes,France
+19,EASTC,SQL SERVER,Eastern Connection,London,UK
+20,ERNSH,SQL SERVER,Ernst Handel,Graz,Austria
+21,FAMIA,SQL SERVER,Familia Arquibaldo,Sao Paulo,Brazil
+22,FISSA,SQL SERVER,FISSA Fabrica Inter. Salchichas S.A.,Madrid,Spain
+23,FOLIG,SQL SERVER,Folies gourmandes,Lille,France
+24,FOLKO,SQL SERVER,Folk och fä HB,Bräcke,Sweden
+25,FRANK,SQL SERVER,Frankenversand,München,Germany
+26,FRANR,SQL SERVER,France restauration,Nantes,France
+27,FRANS,SQL SERVER,Franchi S.p.A.,Torino,Italy
+28,FURIB,SQL SERVER,Furia Bacalhau e Frutos do Mar,Lisboa,Portugal
+29,GALED,SQL SERVER,Galería del gastrónomo,Barcelona,Spain
+30,GODOS,SQL SERVER,Godos Cocina Típica,Sevilla,Spain
+31,GOURL,SQL SERVER,Gourmet Lanchonetes,Campinas,Brazil
+32,GREAL,SQL SERVER,Great Lakes Food Market,Eugene,USA
+33,GROSR,SQL SERVER,GROSELLA-Restaurante,Caracas,Venezuela
+34,HANAR,SQL SERVER,Hanari Carnes,Rio de Janeiro,Brazil
+35,HILAA,SQL SERVER,HILARION-Abastos,San Cristóbal,Venezuela
+36,HUNGC,SQL SERVER,Hungry Coyote Import Store,Elgin,USA
+37,HUNGO,SQL SERVER,Hungry Owl All-Night Grocers,Cork,Ireland
+38,ISLAT,SQL SERVER,Island Trading,Cowes,UK
+39,KOENE,SQL SERVER,Königlich Essen,Brandenburg,Germany
+40,LACOR,SQL SERVER,La corne d'abondance,Versailles,France
+41,LAMAI,SQL SERVER,La maison d'Asie,Toulouse,France
+42,LAUGB,SQL SERVER,Laughing Bacchus Wine Cellars,Vancouver,Canada
+43,LAZYK,SQL SERVER,Lazy K Kountry Store,Walla Walla,USA
+44,LEHMS,SQL SERVER,Lehmanns Marktstand,Frankfurt a.M.,Germany
+45,LETSS,SQL SERVER,Let's Stop N Shop,San Francisco,USA
+46,LILAS,SQL SERVER,LILA-Supermercado,Barquisimeto,Venezuela
+47,LINOD,SQL SERVER,LINO-Delicateses,I. de Margarita,Venezuela
+48,LONEP,SQL SERVER,Lonesome Pine Restaurant,Portland,USA
+49,MAGAA,SQL SERVER,Magazzini Alimentari Riuniti,Bergamo,Italy
+50,MAISD,SQL SERVER,Maison Dewey,Bruxelles,Belgium
+51,MEREP,SQL SERVER,Mère Paillarde,Montréal,Canada
+52,MORGK,SQL SERVER,Morgenstern Gesundkost,Leipzig,Germany
+53,NORTS,SQL SERVER,North/South,London,UK
+54,OCEAN,SQL SERVER,Océano Atlántico Ltda.,Buenos Aires,Argentina
+55,OLDWO,SQL SERVER,Old World Delicatessen,Anchorage,USA
+56,OTTIK,SQL SERVER,Ottilies Käseladen,Köln,Germany
+57,PARIS,SQL SERVER,Paris spécialités,Paris,France
+58,PERIC,SQL SERVER,Pericles Comidas clásicas,México D.F.,Mexico
+59,PICCO,SQL SERVER,Piccolo und mehr,Salzburg,Austria
+60,PRINI,SQL SERVER,Princesa Isabel Vinhos,Lisboa,Portugal
+61,QUEDE,SQL SERVER,Que Delícia,Rio de Janeiro,Brazil
+62,QUEEN,SQL SERVER,Queen Cozinha,Sao Paulo,Brazil
+63,QUICK,SQL SERVER,QUICK-Stop,Cunewalde,Germany
+64,RANCH,SQL SERVER,Rancho grande,Buenos Aires,Argentina
+65,RATTC,SQL SERVER,Rattlesnake Canyon Grocery,Albuquerque,USA
+66,REGGC,SQL SERVER,Reggiani Caseifici,Reggio Emilia,Italy
+67,RICAR,SQL SERVER,Ricardo Adocicados,Rio de Janeiro,Brazil
+68,RICSU,SQL SERVER,Richter Supermarkt,Genève,Switzerland
+69,ROMEY,SQL SERVER,Romero y tomillo,Madrid,Spain
+70,SANTG,SQL SERVER,Santé Gourmet,Stavern,Norway
+71,SAVEA,SQL SERVER,Save-a-lot Markets,Boise,USA
+72,SEVES,SQL SERVER,Seven Seas Imports,London,UK
+73,SIMOB,SQL SERVER,Simons bistro,Kobenhavn,Denmark
+74,SPECD,SQL SERVER,Spécialités du monde,Paris,France
+75,SPLIR,SQL SERVER,Split Rail Beer & Ale,Lander,USA
+76,SUPRD,SQL SERVER,Suprêmes délices,Charleroi,Belgium
+77,THEBI,SQL SERVER,The Big Cheese,Portland,USA
+78,THECR,SQL SERVER,The Cracker Box,Butte,USA
+79,TOMSP,SQL SERVER,Toms Spezialitäten,Münster,Germany
+80,TORTU,SQL SERVER,Tortuga Restaurante,México D.F.,Mexico
+81,TRADH,SQL SERVER,Tradição Hipermercados,Sao Paulo,Brazil
+82,TRAIH,SQL SERVER,Trail's Head Gourmet Provisioners,Kirkland,USA
+83,VAFFE,SQL SERVER,Vaffeljernet,Århus,Denmark
+84,VICTE,SQL SERVER,Victuailles en stock,Lyon,France
+85,VINET,SQL SERVER,Vins et alcools Chevalier,Reims,France
+86,WANDK,SQL SERVER,Die Wandernde Kuh,Stuttgart,Germany
+87,WARTH,SQL SERVER,Wartian Herkku,Oulu,Finland
+88,WELLI,SQL SERVER,Wellington Importadora,Resende,Brazil
+89,WHITC,SQL SERVER,White Clover Markets,Seattle,USA
+90,WILMK,SQL SERVER,Wilman Kala,Helsinki,Finland
+91,WOLZA,SQL SERVER,Wolski  Zajazd,Warszawa,Poland
+92,1,ACCESS,Company A,Seattle,USA
+93,2,ACCESS,Company B,Boston,USA
+94,3,ACCESS,Company C,Los Angelas,USA
+95,4,ACCESS,Company D,New York,USA
+96,5,ACCESS,Company E,Minneapolis,USA
+97,6,ACCESS,Company F,Milwaukee,USA
+98,7,ACCESS,Company G,Boise,USA
+99,8,ACCESS,Company H,Portland,USA
+100,9,ACCESS,Company I,Salt Lake City,USA
+101,10,ACCESS,Company J,Chicago,USA
+102,11,ACCESS,Company K,Miami,USA
+103,12,ACCESS,Company L,Las Vegas,USA
+104,13,ACCESS,Company M,Memphis,USA
+105,14,ACCESS,Company N,Denver,USA
+106,15,ACCESS,Company O,Honolulu,USA
+107,16,ACCESS,Company P,San Francisco,USA
+108,17,ACCESS,Company Q,Seattle,USA
+109,18,ACCESS,Company R,Boston,USA
+110,19,ACCESS,Company S,Los Angelas,USA
+111,20,ACCESS,Company T,New York,USA
+112,21,ACCESS,Company U,Minneapolis,USA
+113,22,ACCESS,Company V,Milwaukee,USA
+114,23,ACCESS,Company W,Portland,USA
+115,24,ACCESS,Company X,Salt Lake City,USA
+116,25,ACCESS,Company Y,Chicago,USA
+117,26,ACCESS,Company Z,Miami,USA
+118,27,ACCESS,Company AA,Las Vegas,USA
+119,28,ACCESS,Company BB,Memphis,USA
+120,29,ACCESS,Company CC,Denver,USA

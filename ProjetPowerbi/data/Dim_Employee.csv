@@ -1,0 +1,59 @@
+﻿id_seqEmployee,id_employee_prod,source_prod,Nom,Prenom,Territory,TerritoryDescr,Region
+1,1,SQL SERVER,Davolio,Nancy,06897,Wilton,Eastern
+2,1,SQL SERVER,Davolio,Nancy,19713,Neward,Eastern
+3,2,SQL SERVER,Fuller,Andrew,01581,Westboro,Eastern
+4,2,SQL SERVER,Fuller,Andrew,01730,Bedford,Eastern
+5,2,SQL SERVER,Fuller,Andrew,01833,Georgetow,Eastern
+6,2,SQL SERVER,Fuller,Andrew,02116,Boston,Eastern
+7,2,SQL SERVER,Fuller,Andrew,02139,Cambridge,Eastern
+8,2,SQL SERVER,Fuller,Andrew,02184,Braintree,Eastern
+9,2,SQL SERVER,Fuller,Andrew,40222,Louisville,Eastern
+10,3,SQL SERVER,Leverling,Janet,30346,Atlanta,Southern
+11,3,SQL SERVER,Leverling,Janet,31406,Savannah,Southern
+12,3,SQL SERVER,Leverling,Janet,32859,Orlando,Southern
+13,3,SQL SERVER,Leverling,Janet,33607,Tampa,Southern
+14,4,SQL SERVER,Peacock,Margaret,20852,Rockville,Eastern
+15,4,SQL SERVER,Peacock,Margaret,27403,Greensboro,Eastern
+16,4,SQL SERVER,Peacock,Margaret,27511,Cary,Eastern
+17,5,SQL SERVER,Buchanan,Steven,02903,Providence,Eastern
+18,5,SQL SERVER,Buchanan,Steven,07960,Morristown,Eastern
+19,5,SQL SERVER,Buchanan,Steven,08837,Edison,Eastern
+20,5,SQL SERVER,Buchanan,Steven,10019,New York,Eastern
+21,5,SQL SERVER,Buchanan,Steven,10038,New York,Eastern
+22,5,SQL SERVER,Buchanan,Steven,11747,Mellvile,Eastern
+23,5,SQL SERVER,Buchanan,Steven,14450,Fairport,Eastern
+24,6,SQL SERVER,Suyama,Michael,85014,Phoenix,Western
+25,6,SQL SERVER,Suyama,Michael,85251,Scottsdale,Western
+26,6,SQL SERVER,Suyama,Michael,98004,Bellevue,Western
+27,6,SQL SERVER,Suyama,Michael,98052,Redmond,Western
+28,6,SQL SERVER,Suyama,Michael,98104,Seattle,Western
+29,7,SQL SERVER,King,Robert,60179,Hoffman Estates,Western
+30,7,SQL SERVER,King,Robert,60601,Chicago,Western
+31,7,SQL SERVER,King,Robert,80202,Denver,Western
+32,7,SQL SERVER,King,Robert,80909,Colorado Springs,Western
+33,7,SQL SERVER,King,Robert,90405,Santa Monica,Western
+34,7,SQL SERVER,King,Robert,94025,Menlo Park,Western
+35,7,SQL SERVER,King,Robert,94105,San Francisco,Western
+36,7,SQL SERVER,King,Robert,95008,Campbell,Western
+37,7,SQL SERVER,King,Robert,95054,Santa Clara,Western
+38,7,SQL SERVER,King,Robert,95060,Santa Cruz,Western
+39,8,SQL SERVER,Callahan,Laura,19428,Philadelphia,Northern
+40,8,SQL SERVER,Callahan,Laura,44122,Beachwood,Northern
+41,8,SQL SERVER,Callahan,Laura,45839,Findlay,Northern
+42,8,SQL SERVER,Callahan,Laura,53404,Racine,Northern
+43,9,SQL SERVER,Dodsworth,Anne,03049,Hollis,Northern
+44,9,SQL SERVER,Dodsworth,Anne,03801,Portsmouth,Northern
+45,9,SQL SERVER,Dodsworth,Anne,48075,Southfield,Northern
+46,9,SQL SERVER,Dodsworth,Anne,48084,Troy,Northern
+47,9,SQL SERVER,Dodsworth,Anne,48304,Bloomfield Hills,Northern
+48,9,SQL SERVER,Dodsworth,Anne,55113,Roseville,Northern
+49,9,SQL SERVER,Dodsworth,Anne,55439,Minneapolis,Northern
+50,1a,ACCESS,Freehafer,Nancy,,,USA
+51,2a,ACCESS,Cencini,Andrew,,,USA
+52,3a,ACCESS,Kotas,Jan,,,USA
+53,4a,ACCESS,Sergienko,Mariya,,,USA
+54,5a,ACCESS,Thorpe,Steven,,,USA
+55,6a,ACCESS,Neipper,Michael,,,USA
+56,7a,ACCESS,Zare,Robert,,,USA
+57,8a,ACCESS,Giussani,Laura,,,USA
+58,9a,ACCESS,Hellung-Larsen,Anne,,,USA

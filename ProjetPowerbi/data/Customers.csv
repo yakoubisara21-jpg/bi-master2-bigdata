@@ -1,0 +1,92 @@
+﻿CustomerID,source_prod,CompanyName,City,Country
+ALFKI,SQL SERVER,Alfreds Futterkiste,Berlin,Germany
+ANATR,SQL SERVER,Ana Trujillo Emparedados y helados,M?xico D.F.,Mexico
+ANTON,SQL SERVER,Antonio Moreno Taquer?a,M?xico D.F.,Mexico
+AROUT,SQL SERVER,Around the Horn,London,UK
+BERGS,SQL SERVER,Berglunds snabbk?p,Lule?,Sweden
+BLAUS,SQL SERVER,Blauer See Delikatessen,Mannheim,Germany
+BLONP,SQL SERVER,Blondesddsl p?re et fils,Strasbourg,France
+BOLID,SQL SERVER,B?lido Comidas preparadas,Madrid,Spain
+BONAP,SQL SERVER,Bon app',Marseille,France
+BOTTM,SQL SERVER,Bottom-Dollar Markets,Tsawassen,Canada
+BSBEV,SQL SERVER,B's Beverages,London,UK
+CACTU,SQL SERVER,Cactus Comidas para llevar,Buenos Aires,Argentina
+CENTC,SQL SERVER,Centro comercial Moctezuma,M?xico D.F.,Mexico
+CHOPS,SQL SERVER,Chop-suey Chinese,Bern,Switzerland
+COMMI,SQL SERVER,Com?rcio Mineiro,Sao Paulo,Brazil
+CONSH,SQL SERVER,Consolidated Holdings,London,UK
+DRACD,SQL SERVER,Drachenblut Delikatessen,Aachen,Germany
+DUMON,SQL SERVER,Du monde entier,Nantes,France
+EASTC,SQL SERVER,Eastern Connection,London,UK
+ERNSH,SQL SERVER,Ernst Handel,Graz,Austria
+FAMIA,SQL SERVER,Familia Arquibaldo,Sao Paulo,Brazil
+FISSA,SQL SERVER,FISSA Fabrica Inter. Salchichas S.A.,Madrid,Spain
+FOLIG,SQL SERVER,Folies gourmandes,Lille,France
+FOLKO,SQL SERVER,Folk och f? HB,Br?cke,Sweden
+FRANK,SQL SERVER,Frankenversand,M?nchen,Germany
+FRANR,SQL SERVER,France restauration,Nantes,France
+FRANS,SQL SERVER,Franchi S.p.A.,Torino,Italy
+FURIB,SQL SERVER,Furia Bacalhau e Frutos do Mar,Lisboa,Portugal
+GALED,SQL SERVER,Galer?a del gastr?nomo,Barcelona,Spain
+GODOS,SQL SERVER,Godos Cocina T?pica,Sevilla,Spain
+GOURL,SQL SERVER,Gourmet Lanchonetes,Campinas,Brazil
+GREAL,SQL SERVER,Great Lakes Food Market,Eugene,USA
+GROSR,SQL SERVER,GROSELLA-Restaurante,Caracas,Venezuela
+HANAR,SQL SERVER,Hanari Carnes,Rio de Janeiro,Brazil
+HILAA,SQL SERVER,HILARION-Abastos,San Crist?bal,Venezuela
+HUNGC,SQL SERVER,Hungry Coyote Import Store,Elgin,USA
+HUNGO,SQL SERVER,Hungry Owl All-Night Grocers,Cork,Ireland
+ISLAT,SQL SERVER,Island Trading,Cowes,UK
+KOENE,SQL SERVER,K?niglich Essen,Brandenburg,Germany
+LACOR,SQL SERVER,La corne d'abondance,Versailles,France
+LAMAI,SQL SERVER,La maison d'Asie,Toulouse,France
+LAUGB,SQL SERVER,Laughing Bacchus Wine Cellars,Vancouver,Canada
+LAZYK,SQL SERVER,Lazy K Kountry Store,Walla Walla,USA
+LEHMS,SQL SERVER,Lehmanns Marktstand,Frankfurt a.M.,Germany
+LETSS,SQL SERVER,Let's Stop N Shop,San Francisco,USA
+LILAS,SQL SERVER,LILA-Supermercado,Barquisimeto,Venezuela
+LINOD,SQL SERVER,LINO-Delicateses,I. de Margarita,Venezuela
+LONEP,SQL SERVER,Lonesome Pine Restaurant,Portland,USA
+MAGAA,SQL SERVER,Magazzini Alimentari Riuniti,Bergamo,Italy
+MAISD,SQL SERVER,Maison Dewey,Bruxelles,Belgium
+MEREP,SQL SERVER,M?re Paillarde,Montr?al,Canada
+MORGK,SQL SERVER,Morgenstern Gesundkost,Leipzig,Germany
+NORTS,SQL SERVER,North/South,London,UK
+OCEAN,SQL SERVER,Oc?ano Atl?ntico Ltda.,Buenos Aires,Argentina
+OLDWO,SQL SERVER,Old World Delicatessen,Anchorage,USA
+OTTIK,SQL SERVER,Ottilies K?seladen,K?ln,Germany
+PARIS,SQL SERVER,Paris sp?cialit?s,Paris,France
+PERIC,SQL SERVER,Pericles Comidas cl?sicas,M?xico D.F.,Mexico
+PICCO,SQL SERVER,Piccolo und mehr,Salzburg,Austria
+PRINI,SQL SERVER,Princesa Isabel Vinhos,Lisboa,Portugal
+QUEDE,SQL SERVER,Que Del?cia,Rio de Janeiro,Brazil
+QUEEN,SQL SERVER,Queen Cozinha,Sao Paulo,Brazil
+QUICK,SQL SERVER,QUICK-Stop,Cunewalde,Germany
+RANCH,SQL SERVER,Rancho grande,Buenos Aires,Argentina
+RATTC,SQL SERVER,Rattlesnake Canyon Grocery,Albuquerque,USA
+REGGC,SQL SERVER,Reggiani Caseifici,Reggio Emilia,Italy
+RICAR,SQL SERVER,Ricardo Adocicados,Rio de Janeiro,Brazil
+RICSU,SQL SERVER,Richter Supermarkt,Gen?ve,Switzerland
+ROMEY,SQL SERVER,Romero y tomillo,Madrid,Spain
+SANTG,SQL SERVER,Sant? Gourmet,Stavern,Norway
+SAVEA,SQL SERVER,Save-a-lot Markets,Boise,USA
+SEVES,SQL SERVER,Seven Seas Imports,London,UK
+SIMOB,SQL SERVER,Simons bistro,Kobenhavn,Denmark
+SPECD,SQL SERVER,Sp?cialit?s du monde,Paris,France
+SPLIR,SQL SERVER,Split Rail Beer & Ale,Lander,USA
+SUPRD,SQL SERVER,Supr?mes d?lices,Charleroi,Belgium
+THEBI,SQL SERVER,The Big Cheese,Portland,USA
+THECR,SQL SERVER,The Cracker Box,Butte,USA
+TOMSP,SQL SERVER,Toms Spezialit?ten,M?nster,Germany
+TORTU,SQL SERVER,Tortuga Restaurante,M?xico D.F.,Mexico
+TRADH,SQL SERVER,Tradi??o Hipermercados,Sao Paulo,Brazil
+TRAIH,SQL SERVER,Trail's Head Gourmet Provisioners,Kirkland,USA
+VAFFE,SQL SERVER,Vaffeljernet,?rhus,Denmark
+VICTE,SQL SERVER,Victuailles en stock,Lyon,France
+VINET,SQL SERVER,Vins et alcools Chevalier,Reims,France
+WANDK,SQL SERVER,Die Wandernde Kuh,Stuttgart,Germany
+WARTH,SQL SERVER,Wartian Herkku,Oulu,Finland
+WELLI,SQL SERVER,Wellington Importadora,Resende,Brazil
+WHITC,SQL SERVER,White Clover Markets,Seattle,USA
+WILMK,SQL SERVER,Wilman Kala,Helsinki,Finland
+WOLZA,SQL SERVER,Wolski  Zajazd,Warszawa,Poland

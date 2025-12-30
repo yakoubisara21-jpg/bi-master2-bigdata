@@ -1,0 +1,39 @@
+// changer les valeurs de EmployeeID de excel
+
+= Text.From([EmployeeID]) & "a"
+
+
+//creation de orderdate_mois_annee
+
+= if [OrderDate] = null then "" else Date.ToText(Date.From([OrderDate]), "yyyy-MM")
+
+
+// creation de Dim_Temps
+
+let
+    // Liste des années 1996 à 2010
+    Annees = {1996..2010},
+    
+    // Créer une ligne par mois 
+    TableBase = Table.FromList(Annees, Splitter.SplitByNothing(), {"annee"}),
+    AjoutMois = Table.AddColumn(TableBase, "mois", each {1..12}),
+    Expansion = Table.ExpandListColumn(AjoutMois, "mois"),
+    
+    // Créer la colonne mois_annee 
+    AjoutMoisAnnee = Table.AddColumn(Expansion, "mois_annee",
+        each Text.From([annee]) & "-" & Text.PadStart(Text.From([mois]), 2, "0"),
+        type text),
+    
+    // Ajouter ID séquentiel
+    AjoutID = Table.AddIndexColumn(AjoutMoisAnnee, "id_temps", 1, 1, Int64.Type),
+    
+    // Garder seulement les 3 colonnes nécessaires
+    ColonnesFinales = Table.SelectColumns(AjoutID, {"id_temps", "annee", "mois_annee"})
+in
+    ColonnesFinales
+
+
+//Creation des colonnes livree et non livree
+
+Livree = if [ShippedDate] <> null then 1 else 0
+NonLivree = if [ShippedDate] = null then 1 else 0
