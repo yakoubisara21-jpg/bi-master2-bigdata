@@ -15,29 +15,29 @@ Ce dossier contient les éléments (rapports, scripts sql, diagrammes) du TP ré
 Ce dossier contient les sous-dossiers suivants :
 
 data\ :
--Contenu : Les tables au format .csv des donnees finales exportees depuis Power BI.
--Description : Contient toutes les tables nettoyees et transformees, incluant les dimensions et la table de faits TFcommande.
+- Contenu : Les tables au format .csv des donnees finales exportees depuis Power BI.
+- Description : Contient toutes les tables nettoyees et transformees, incluant les dimensions et la table de faits TFcommande.
 
 fichierPowerbi\ :
--Contenu : Le fichier Power BI Desktop au format .pbix.
+- Contenu : Le fichier Power BI Desktop au format .pbix.
 
 figures\ :
--Contenu :
-Un fichier texte readme contenant le lien vers toutes les figures du projet.
-Un dossier qlq figures dashboard avec les captures d'ecran du tableau de bord final realise avec Power BI et Python.
+- Contenu :
+- Un fichier texte readme contenant le lien vers toutes les figures du projet.
+- Un dossier qlq figures dashboard avec les captures d'ecran du tableau de bord final realise avec Power BI et Python.
 
 notebooks\ :
 -Contenu : Un fichier texte contenant les requetes necessaires a executer dans Power BI.
 
 reports\ :
 -Contenu :
-2 rapports : un pour le processus ETL et un pour le tableau de bord.
-Un fichier texte contenant le lien Drive vers les fichiers .zip du projet LaTeX.
+- 2 rapports : un pour le processus ETL et un pour le tableau de bord.
+- Un fichier texte contenant le lien Drive vers les fichiers .zip du projet LaTeX.
 
 scripts\ :
 -Contenu :
-Un dossier dashboard python pour l'execution du tableau de bord avec Python.
-Un fichier readme expliquant comment proceder.
+-Un dossier dashboard python pour l'execution du tableau de bord avec Python.
+-Un fichier readme expliquant comment proceder.
 
 videos\ :
 -Contenu : Un fichier readme contenant le lien vers le Drive qui heberge les videos de realisation du projet.
