@@ -4,16 +4,13 @@ Master 2 BIGDATA - Business Intelligence
 bi-master2-bigdata contient les Dossiers :
 
 1) tp-bi-talend\ :
-Ce dossier contient les éléments (rapports, scripts sql, diagrammes) du TP réalisé avec Talend pour la création d’un entrepôt de données (Data Warehouse) basé sur la base 
+Ce dossier contient les éléments (rapports, scripts sql, diagrammes) du TP réalisé avec Talend pour la création d’un entrepôt de données (Data Warehouse) basé sur la base Northwind utilisée sous SQL Server 2022.
 
-Northwind utilisée sous SQL Server 2022.
------------------------------------------
-Technologies utilisées
------------------------------------------
-• SQL Server Management Studio 2022 (SSMS)
-• Talend Open Studio for Data Integration
+• Technologies utilisées :
+- SQL Server Management Studio 2022 (SSMS)
+- Talend Open Studio for Data Integration
+  
 ---------------------------------------------------------------------------------------------------------------------------------------
-
 2) ProjetPowerbi\ :
 Ce dossier contient les sous-dossiers suivants :
 
@@ -44,6 +41,16 @@ Un fichier readme expliquant comment proceder.
 
 videos\ :
 -Contenu : Un fichier readme contenant le lien vers le Drive qui heberge les videos de realisation du projet.
+
+• Technologies utilisées :
+- Power BI Desktop
+- Classeur EXCEL
+- Python
+- fichiers CSV
+- fichiers Text
+- SQL SERVER MANAGMENT STUDIO
+- ACCESS
+
 
 -----------------------------------------
 Auteur
